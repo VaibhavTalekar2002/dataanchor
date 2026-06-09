@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+openpyxl
+python-dotenv
+groq
+psycopg2-binary
+pymysql
+snowflake-connector-python
+pydantic
+reportlab
+python-multipart
+aiofiles
